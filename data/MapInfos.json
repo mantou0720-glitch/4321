@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":false,"name":"總地圖","order":1,"parentId":0,"scrollX":491,"scrollY":357.5,"quick":false},
+{"id":2,"expanded":true,"name":"病房三","order":4,"parentId":0,"scrollX":832,"scrollY":624,"quick":false},
+{"id":3,"expanded":true,"name":"病房二","order":3,"parentId":0,"scrollX":832,"scrollY":624,"quick":false},
+{"id":4,"expanded":true,"name":"病房四","order":5,"parentId":0,"scrollX":832,"scrollY":624,"quick":false},
+{"id":5,"expanded":true,"name":"病房五","order":6,"parentId":0,"scrollX":832,"scrollY":624,"quick":false},
+{"id":6,"expanded":true,"name":"病房一","order":2,"parentId":0,"scrollX":832,"scrollY":624,"quick":false},
+{"id":7,"expanded":true,"name":"病房六","order":7,"parentId":0,"scrollX":832,"scrollY":624,"quick":false}
+]
